@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello-world README
 
 This is the README for your extension "hello-world". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,7 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# vscode-simple-extention
+A Simple Visual Studio Code extention
+>>>>>>> c812a31719df14a92055d0dd3ad41f6e8e33e6b8
